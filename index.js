@@ -63,18 +63,3 @@ function animate(a){
         drum_class.classList.remove("pressed")
     },100)
 }
-// let audio=new Audio("sounds/crash.mp3")
-// audio.play()
-
-// function HouseKeeper(name,experience,age){
-//     this.name=name
-//     this.experience=experience
-//     this.age=age
-//     this.clean= function(){
-//         alert("Ok i will clean it")
-//     }
-// }
-
-// let housekeeper1=new HouseKeeper("chandu",5,25)
-// console.log(housekeeper1.name)
-// console.log(housekeeper1.clean())
